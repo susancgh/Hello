@@ -1,1 +1,2 @@
 create c.text
+add come word
